@@ -1,6 +1,6 @@
 # Web-scrapping
-in the pycharm terminal:
+In the pycharm terminal:
 
 scrapy crawl quotes
 
-#storing data in containers
+# storing data in item containers
