@@ -1,3 +1,18 @@
+# Default structure of Scrapy projects(https://doc.scrapy.org/en/latest/topics/commands.html)
+scrapy.cfg
+myproject/
+    __init__.py
+    items.py
+    middlewares.py
+    pipelines.py
+    settings.py
+    spiders/
+        __init__.py
+        spider1.py
+        spider2.py
+        ...
+        
+
 # Web-scrapping
 In the pycharm terminal:
 
