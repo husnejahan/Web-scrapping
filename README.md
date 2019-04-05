@@ -22,6 +22,9 @@ scrapy crawl quotes
 
 scrapy crawl quotes -o items.csv
 
+scrapy crawl name_spider -o data.csv -t csv
+
+
 # To create a scrapy project
 
 In the pycharm terminal:
