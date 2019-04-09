@@ -1,4 +1,5 @@
-# Default structure of Scrapy projects(https://doc.scrapy.org/en/latest/topics/commands.html)
+# Default structure of Scrapy projects:
+(https://doc.scrapy.org/en/latest/topics/commands.html)
 
 scrapy.cfg
 
