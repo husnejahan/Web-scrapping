@@ -28,7 +28,7 @@ class GeappliancePipeline(object):
         self.conn = mysql.connector.connect(
             host='localhost',
             user='root',
-            password='Jesma1423',
+            password='    ',
             database='geappliance'
         )
         self.curr = self.conn.cursor()
